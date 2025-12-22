@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "カロン",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-22T15:43:36.899903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カロン",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": false,
+      "path": "select/01_カロン_アトラスサウンドチーム.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カロン",
+      "artist": "negoto",
+      "has_synced": true,
+      "path": "select/02_カロン_negoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カロン",
+      "artist": "ねごと",
+      "has_synced": false,
+      "path": "select/03_カロン_ねごと.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カロン",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/04_カロン_ねごと.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カロン",
+      "artist": "negoto",
+      "has_synced": true,
+      "path": "select/05_カロン_negoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カロン",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/06_カロン_ねごと.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カロン",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/07_カロン_ねごと.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カロン —Mizuki Masuda Remix—",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/08_カロン_—Mizuki_Masuda_Remix—_ねごと.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カロン -Mizuki Masuda Remix-",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/09_カロン_-Mizuki_Masuda_Remix-_ねごと.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カロン",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_カロン_ロクデナシ.txt"
+    }
+  ]
+}
